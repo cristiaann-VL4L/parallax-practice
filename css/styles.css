@@ -1,0 +1,49 @@
+
+.header{
+    font-family: 'Open Sans', sans-serif;
+}
+.hogwarts{
+    background-image: url(../imgs/hogwarts_soww.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.curriculum{
+    background-image: url(../imgs/curriculum.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.express{
+    background-image: url(../imgs/Hogwarts_express.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.houses{
+    background-image: url(../imgs/Hogwarts_houses.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.supplies{
+    background-image:url(../imgs/Diagon_alley.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-dark{
+    opacity: .7;
+}
+.fancy_font{
+    font-family: 'Caudex', serif;
+
+}
+li{
+    list-style:none;
+}
